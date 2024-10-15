@@ -1,0 +1,13 @@
+sentence-transformers 
+uvicorn 
+transformers 
+langchain 
+python-box
+python-dotenv
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+python-magic
+python-magic-bin
+OpenAI
